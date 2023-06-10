@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5595371e.css",
+    "main.js": "/static/js/main.f6b82dbb.js",
+    "static/media/FramezyMockups.png": "/static/media/FramezyMockups.50c46204a96d5dc845a9.png",
+    "static/media/MartcartMockups.png": "/static/media/MartcartMockups.afc6cd09ae5e2f6eaa94.png",
+    "static/media/NotesAppMockups.png": "/static/media/NotesAppMockups.cf9be3a4460ecf15f538.png",
+    "static/media/datascience.png": "/static/media/datascience.7468bc2aa9240e9068fc.png",
+    "static/media/Firebase.png": "/static/media/Firebase.04d56a85c060372928e0.png",
+    "static/media/Me.jpeg": "/static/media/Me.24cb11b1c3a9d67dfb4f.jpeg",
+    "index.html": "/index.html",
+    "main.5595371e.css.map": "/static/css/main.5595371e.css.map",
+    "main.f6b82dbb.js.map": "/static/js/main.f6b82dbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5595371e.css",
+    "static/js/main.f6b82dbb.js"
+  ]
+}
